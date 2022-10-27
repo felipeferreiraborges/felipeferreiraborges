@@ -3,7 +3,7 @@
  You can create your own header images using Canva, it has a lot of templates. If you do, use the following link https://www.canva.com/join/celeriac-tread-jellyfish -->
 
 
-<img align='right' src='https://media3.giphy.com/media/euAnOkLGWtdHG/giphy.gif?cid=ecf05e47p2roqfesb25bal4aipj4pkqvp0fy2ug3bbhibk3y&rid=giphy.gif&ct=g' width='200"'>
+<img align='right' src='https://s4.gifyu.com/images/output2988332bc44a81ce.gif' width='200"'>
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-FelipeBorges-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-borges-a209598b/)](https://www.linkedin.com/in/felipe-borges-a209598b/)
